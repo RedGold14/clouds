@@ -7,7 +7,7 @@ Benefits of cloud computing:
 - Reliability. Data backup, disaster recovery. Data can be mirrored at multiple redundant sites.
 - Security. Broad set of policies, technologies and contols.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Three different ways to deploy cloud services: public cloud, private cloud, hybrid cloud. 
 
@@ -57,4 +57,12 @@ Hybrid cloud:
 - Provides the most flexibility 
 - Organizations determine where to run their applications
 - Organizations control security, compliance, or legal requirements
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Disaster recovery - How quickly can you get your computers and systems up and running after disastrous event. The cost savings of having a disaster recovery plan are enormous.
+
+High availability is the concept or goal of ensuring your critical systems are always functioning. High availability is a strategy.
+
+Fault tolerance describes a computer system or technology infrastructure that is designed in such a way that when one component fails, a backup component takes over operations immediately so that there is no loss of service.
 
