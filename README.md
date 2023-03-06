@@ -10,3 +10,9 @@
 # Describe Azure architecture and services 
 
 # Describe Azure management and governance
+
+---------------------------------------------------------------
+
+### Is your disaster recovery plan thorough enough?
+### Are failover options a part of your high availability architecture?
+### How tolerant are your networks to failure?
