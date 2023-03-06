@@ -66,3 +66,27 @@ High availability is the concept or goal of ensuring your critical systems are a
 
 Fault tolerance describes a computer system or technology infrastructure that is designed in such a way that when one component fails, a backup component takes over operations immediately so that there is no loss of service.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Scalability is an ability to scale a workload. This could mean vertical scaling (scaling up or down), as well as horizontal scaling (scaling out or back in)
+
+Scaling up or Vertical Scaling = Add resources to existing instances.
+Scaling out or Horizontal Scaling = Add more instances.
+
+Elasticity follows on from scalability and defines the characteristics of the workload. It is the workload's ability to scale up or down. Elastic workloads are a major pattern which benefits from cloud computing.
+
+With static scaling, we are provisioning resources to account for the "peak" even through the underlying workload is constantly changing.
+With elastic scaling, we are trying to fine-tune our system to allow for the resources to be added on demand, while ensuring we have some buffer room.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Capital expenditures (CapEx) are purchases of significant goods or services that will be used to improve a company's performance in the future.
+
+Operating expenses (OpEx) are the costs that a company incurs for running its day-to-day operations.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Consumption-based price - You are charged for only what you use. This model is also known as the Pay-As-You-Go rate. 
+Fixed price - You provision resources and are charged for those instances or not they are used.
+
+A common way to estimate cost is by considering workloads on a peak throughput. Start with a fixed minimum level of performance and then use architectural patterns and autoscaling of services. Compare and contrast the options and understand how provision workloads that can potentially switch between the two models. The model will be a tradeoff between scalability and predictability. Ideally in the architecture, blend the two aspects.
