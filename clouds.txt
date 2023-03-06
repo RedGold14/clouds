@@ -1,0 +1,60 @@
+Benefits of cloud computing:
+- Cost. Cloud computing eliminates the CapEx of buying hardware and software and seting up and running on-site datacenters.
+- Speed. Vast amounts of computing resources can be provisioned in minutes, typically with just a few mouse clicks.
+- Global scale. Delivering the right amount of IT resources. 
+- Productivity. Cloud computing removes the need of hardware and software setup, other IT management chores. 
+- Performance. Datacenters are regularly upgraded to the latest generation of fast and and efficient computing hardware.
+- Reliability. Data backup, disaster recovery. Data can be mirrored at multiple redundant sites.
+- Security. Broad set of policies, technologies and contols.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Three different ways to deploy cloud services: public cloud, private cloud, hybrid cloud. 
+
+Public clouds are owned and operated by a third-party cloud service providees, which deliver their computing resources. 
+
+Private cloud refers to cloud computing resources used exclusively by a single business or organization. Can be physically located on the company's on site datacenter. Services and infrastructure maintained on a private network.
+
+Hybrid clouds combine public and private clouds, bound together by technology that allows data and applications to be shared between them.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Types of cloud services: IaaS, PaaS, serverless, and SaaS
+
+Infrastructure as a service (IaaS)
+Platform as a service (PaaS) 
+Software as a service (SaaS)
+
+IaaS - Servers and virtual machines (VMs), storage, networks, operating systems.
+PaaS - On-demand environment for developing, testing, delivering, and managing software applications.
+SaaS - Delivering software applications over the Internet, on demand and typically on a subscription basis.
+
+Serverless computing focuses on building app functionality without spending time continually managing the servers and infrastructure to do so. Highly scalable and event-driven.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Public clouds can be deployed faster that on-premises infrastructures and with almost infinitely scalable platform.
+
+Private clouds deliver a higher level of security and privacy through both company firewalls and internal hosting to ensure operations and sensitive data are not accessible to third-party providers.
+
+Two models can be delivered in a private cloud - IaaS, PaaS.
+
+Related hybrid cloud Azure products and services: Azure hybrid cloud solutions, Azure Arc, Azure Stack, Azure Hybrid Benefit, Azure VMWare Solution, Azure Sentinel, Azure Defender, Azure ExpressRoute, Azure VPN Gateway.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Public cloud:
+- No CapEx to scale up 
+- Applications can be quickly provisioned and deprovisioned
+- Organizations pay only for what they use 
+
+Private cloud:
+- Hardware must be purchased for start-up and maintenance 
+- Organizations have complete control over resources and security
+- Organizations are responsible for hardware maintenance and updates 
+
+Hybrid cloud:
+- Provides the most flexibility 
+- Organizations determine where to run their applications
+- Organizations control security, compliance, or legal requirements
+
